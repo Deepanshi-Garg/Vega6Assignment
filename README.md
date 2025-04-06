@@ -6,8 +6,8 @@ A full-stack blog manager platform where users can **sign up, log in, upload a p
 
 ## Deplolyed App
 
-Frontend: https://blog-manager-v6.netlify.app/
-Backend: https://vega6assignment-4c5r.onrender.com
+- 🔗 *Frontend:* [https://blog-manager-v6.netlify.app](https://blog-manager-v6.netlify.app)  
+- 🔗 *Backend:* [https://vega6assignment-4c5r.onrender.com](https://vega6assignment-4c5r.onrender.com)
 ---
 
 ### ✨ Features
